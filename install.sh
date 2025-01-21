@@ -1,1 +1,1 @@
-pip3 install pipreqs 
+pip install pipreqs 
